@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+Employee_id_No,int,NO,PRI,,
+Full_Name,varchar(100),NO,,,
+Email,varchar(100),YES,,,
+Birth_year,int,YES,,,
