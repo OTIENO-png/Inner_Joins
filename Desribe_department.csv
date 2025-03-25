@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+Department_name,varchar(255),NO,,,
+Employee_id_No,int,YES,,,
+Designation,varchar(100),YES,,,
