@@ -15,3 +15,10 @@ AND Employee_id_No = 2800
 AND Designation = 'Principal Officer';
 
 SELECT *FROM Department_Data;
+
+
+UPDATE Department_Data
+SET Employee_id_No = 2916
+WHERE Department_name = 'D.HOD'
+AND Employee_id_No = 2961
+AND Designation = 'Principal Officer';
